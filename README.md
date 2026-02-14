@@ -1,0 +1,1 @@
+OGKB – Offline Knowledge Base (Project Summary) OGKB is a self-contained offline knowledge server built on a Raspberry Pi Zero 2 W. Standard storage is 128GB or 256GB microSD (R&D unit uses 32GB). The system operates as a standalone Wi-Fi access point and serves a dynamic web-based knowledge library. Users connect directly via Wi-Fi and access content through a browser.
