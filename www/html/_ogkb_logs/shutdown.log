@@ -1,0 +1,19 @@
+[2026-02-13 23:02:15] REQ method=POST remote=10.42.0.215 sid=1ed77df7bcd67da5f5749ac381f5b65d ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+[2026-02-13 23:02:15] ALLOW ok:true issuing shutdown
+[2026-02-13 23:02:15] EXEC launched
+[2026-02-13 23:06:05] REQv2 method=GET remote=10.42.0.1 sid=1c603f842d1e83e1d99d2eaa4fcf487e ua=curl/8.14.1
+[2026-02-13 23:06:05] DENY 405 method_not_allowed
+[2026-02-13 23:06:16] REQv2 method=GET remote=10.42.0.1 sid=d835bdf9fd4b4129738de5311c505e73 ua=curl/8.14.1
+[2026-02-13 23:06:16] DENY 405 method_not_allowed
+[2026-02-13 23:06:57] REQv2 method=POST remote=10.42.0.215 sid=1ed77df7bcd67da5f5749ac381f5b65d ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+[2026-02-13 23:06:57] ALLOW ok:true issuing shutdown
+[2026-02-13 23:06:57] EXEC rc=1 out=sudo: The "no new privileges" flag is set, which prevents sudo from running as root. | sudo: If sudo is running in a container, you may need to adjust the container configuration to disable the flag.
+[2026-02-13 23:09:53] REQv2 method=POST remote=10.42.0.215 sid=1ed77df7bcd67da5f5749ac381f5b65d ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+[2026-02-13 23:09:53] ALLOW ok:true issuing shutdown
+[2026-02-13 23:09:53] EXEC rc=0 out=
+[2026-02-13 23:12:23] REQv2 method=POST remote=10.42.0.215 sid=1ed77df7bcd67da5f5749ac381f5b65d ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+[2026-02-13 23:12:23] ALLOW ok:true issuing shutdown
+[2026-02-13 23:12:24] EXEC rc=0 out=
+[2026-02-13 23:24:54] REQ method=POST remote=10.42.0.215 sid=6f450d008703133d383887c76225823c ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+[2026-02-13 23:24:54] ALLOW ok:true issuing shutdown
+[2026-02-13 23:24:54] EXEC rc=0 out=
